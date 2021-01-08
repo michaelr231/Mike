@@ -1,0 +1,2 @@
+my_str.c: run
+	gcc -ansi -Wall -pedantic my_str.c -o run
